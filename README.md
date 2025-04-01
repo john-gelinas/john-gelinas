@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Check out my most recent project, Workout-App! Feel free to reach me at jngelinas97@gmail.com
+<!--Check out my most recent project, Workout-App! Feel free to reach me at jngelinas97@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/john-gelinas-5b080a151/
 
-<!--
+
 **john-gelinas/john-gelinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
